@@ -1,3 +1,18 @@
+body {
+  background-color: lightgray;
+}
+
 .letterbody {
   display:none;
+  border: solid gray 3px;
+  margin-top: 1em;
+  padding: 5px;
+  font-family:cursive;
+  font-size: 24pt;
+  background-color: white;
+
+}
+
+.indent {
+  text-indent: 25px;
 }
